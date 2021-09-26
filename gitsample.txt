@@ -13,3 +13,5 @@ git cherrypick
 git rebase
 
 git pull
+
+git tag
