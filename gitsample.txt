@@ -7,3 +7,5 @@ git push
 git clone
 
 git stash
+
+git cherrypick
