@@ -12,8 +12,12 @@ git cherrypick
 
 git rebase
 
+
 git log
 
 git branch
 
 git clone1
+
+git pull
+
