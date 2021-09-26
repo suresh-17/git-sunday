@@ -11,3 +11,5 @@ git stash
 git cherrypick
 
 git rebase
+
+git pull
