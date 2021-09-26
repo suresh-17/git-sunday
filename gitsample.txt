@@ -11,3 +11,7 @@ git stash
 git cherrypick
 
 git rebase
+
+git log
+
+git branch
