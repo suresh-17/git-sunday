@@ -9,3 +9,5 @@ git clone
 git stash
 
 git cherrypick
+
+git rebase
